@@ -4,11 +4,11 @@ Data-X Project
 Team: Yana Mykhailovska, Stephanie Stickel, Neelabh Mishra, Raj Punyaamurthula, Lydia Ruiz
 
 # File to be be run:
- arima-ENERGY.ipynb 
+ENERGY-ARIMA.ipynb 
  - contains the main code for energy prediction, accessing file from the folder all_years
 
 # Files for demo purpose only:
-Just ARIMA.ipynb 
+WEATHER-ARIMA.ipynb 
 - contains the main code for weather prediction, BUT its data is too big to be uploaded into GitHub
 
 Merging Datasets.ipynb
