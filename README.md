@@ -1,1 +1,1 @@
-# -yana-_data_x_s20
+# Lumen TimeSeries Code Instructions
